@@ -2,15 +2,21 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:ingots/iron"
+        "tag": "forge:storage_blocks/iron"
       },
-      "count": 40
+      "count": 16
     },
     {
       "item": {
-        "tag": "forge:gems/lapis"
+        "tag": "forge:gems/diamond"
       },
-      "count": 8
+      "count": 24
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/lapis"
+      },
+      "count": 16
     },
     {
       "item": {
@@ -24,3 +30,4 @@
     "id": "tacz:sks_tactical"
   }
 }
+//Edited

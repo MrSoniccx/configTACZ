@@ -14,14 +14,15 @@
     },
     {
       "item": {
-        "tag": "forge:nuggets/iron"
+        "tag": "forge:ingots/iron"
       },
-      "count": 9
+      "count": 4
     }
   ],
   "result": {
     "type": "ammo",
     "id": "tacz:12g",
-    "count": 24
+    "count": 16
   }
 }
+//Edited

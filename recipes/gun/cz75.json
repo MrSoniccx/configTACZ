@@ -4,7 +4,25 @@
       "item": {
         "tag": "forge:ingots/iron"
       },
-      "count": 17
+      "count": 32
+    },    
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 14
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 48
     }
   ],
   "result": {
@@ -12,3 +30,4 @@
     "id": "tacz:cz75"
   }
 }
+//Edited

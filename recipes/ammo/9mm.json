@@ -10,12 +10,13 @@
       "item": {
         "tag": "forge:gunpowder"
       },
-      "count": 2
+      "count": 1
     }
   ],
   "result": {
     "type": "ammo",
     "id": "tacz:9mm",
-    "count": 60
+    "count": 30
   }
 }
+//Edited

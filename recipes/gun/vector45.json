@@ -4,25 +4,37 @@
       "item": {
         "tag": "forge:ingots/iron"
       },
-      "count": 60
-    },
-    {
-      "item": {
-        "tag": "forge:gems/lapis"
-      },
-      "count": 8
-    },
-    {
-      "item": {
-        "tag": "forge:ingots/gold"
-      },
-      "count": 12
+      "count": 64
     },
     {
       "item": {
         "tag": "forge:gems/diamond"
       },
-      "count": 10
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 64
     }
   ],
   "result": {
@@ -30,3 +42,4 @@
     "id": "tacz:vector45"
   }
 }
+//Edited

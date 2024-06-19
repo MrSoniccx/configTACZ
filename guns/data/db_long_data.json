@@ -1,19 +1,20 @@
+//Edited
 {
   "ammo": "tacz:12g",
-  "rpm": 200,
+  "rpm": 150,
   "bullet": {
     "life": 0.4,
     "bullet_amount": 10,
-    "damage": 25,
+    "damage": 14,
     "tracer_count_interval": 0,
     "extra_damage": {
-      "armor_ignore": 0.0,
-      "head_shot_multiplier": 1.1,
+      "armor_ignore": 0.3,
+      "head_shot_multiplier": 1.4,
       "damage_adjust": [
-        {"distance": 1.5, "damage": 30},
-        {"distance": 20, "damage": 25},
-        {"distance": 35, "damage": 20},
-        {"distance": "infinite", "damage": 15}
+        {"distance": 2, "damage": 14},
+        {"distance": 6, "damage": 8},
+        {"distance": 10, "damage": 4},
+        {"distance": "infinite", "damage": 2}
       ]
     },
     "speed": 120,

@@ -9,11 +9,11 @@
     "tracer_count_interval": 0,
     "extra_damage": {
       "armor_ignore": 0.2,
-      "head_shot_multiplier": 1.75,
+      "head_shot_multiplier": 1.5,
       "damage_adjust": [
         {"distance": 2, "damage": 3.5},
         {"distance": 15.5, "damage": 3},
-        {"distance": 44.5, "damage": 3},
+        {"distance": 44.5, "damage": 2.5},
         {"distance": "infinite", "damage": 1.5}
       ]
     },
@@ -24,11 +24,11 @@
     "ignite": false,
     "pierce": 1
   },
-  "ammo_amount": 17,
+  "ammo_amount": 15,
   "extended_mag_ammo_amount": [
-    20,
-    24,
-    27
+    18,
+    22,
+    25
   ],
   "bolt": "closed_bolt",
   "reload": {

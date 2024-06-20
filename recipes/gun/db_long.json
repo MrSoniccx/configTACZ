@@ -14,7 +14,7 @@
     },
     {
       "item": {
-        "tag": "gems/amethyst"
+        "tag": "forge:gems/amethyst"
       },
       "count": 32
     },
@@ -42,4 +42,3 @@
     "id": "tacz:db_long"
   }
 }
-//Edited

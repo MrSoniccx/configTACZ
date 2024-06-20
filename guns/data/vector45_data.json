@@ -1,7 +1,7 @@
 //Edited
 {
   "ammo": "tacz:45acp",
-  "rpm": 600,
+  "rpm": 650,
   "bullet": {
     "life": 0.6,
     "bullet_amount": 1,
@@ -25,22 +25,22 @@
     "ignite": false,
     "pierce": 1
   },
-  "ammo_amount": 17,
+  "ammo_amount": 24,
   "extended_mag_ammo_amount": [
-    22,
-    29,
-    35
+    30,
+    35,
+    44
   ],
   "bolt": "closed_bolt",
   "reload": {
     "type": "magazine",
     "feed": {
-      "empty": 2.03,
-      "tactical": 1.67
+      "empty": 1.4,
+      "tactical": 0.6
     },
     "cooldown": {
-      "empty": 2.47,
-      "tactical": 2.2
+      "empty": 1.4,
+      "tactical": 0.6
     }
   },
   "draw_time": 0.37,

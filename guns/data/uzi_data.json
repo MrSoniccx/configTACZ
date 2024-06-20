@@ -1,18 +1,18 @@
 //Edited
 {
   "ammo": "tacz:9mm",
-  "rpm": 450,
+  "rpm": 500,
   "bullet": {
     "life": 0.55,
     "bullet_amount": 1,
-    "damage": 1.5,
+    "damage": 3,
     "tracer_count_interval": 0,
     "extra_damage": {
-      "armor_ignore": 0.05,
-      "head_shot_multiplier": 1.75,
+      "armor_ignore": 0.15,
+      "head_shot_multiplier": 1.5,
       "damage_adjust": [
-        {"distance": 0.5, "damage": 1.5},
-        {"distance": 19.5, "damage": 1.5},
+        {"distance": 15.5, "damage": 3},
+        {"distance": 24.5, "damage": 2.5},
         {"distance": 39.5, "damage": 1},
         {"distance": "infinite", "damage": 0.5}
       ]
@@ -24,11 +24,11 @@
     "ignite": false,
     "pierce": 1
   },
-  "ammo_amount": 20,
+  "ammo_amount": 21,
   "extended_mag_ammo_amount": [
     26,
     32,
-    40
+    39
   ],
   "bolt": "open_bolt",
   "reload": {

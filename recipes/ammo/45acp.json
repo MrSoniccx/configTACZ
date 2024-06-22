@@ -14,9 +14,9 @@
     },
     {
       "item": {
-        "tag": "minecraft:blaze_powder"
+        "item": "minecraft:blaze_powder"
       },
-      "count": 1
+      "count": 2
     },
     {
       "item": {

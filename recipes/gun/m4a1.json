@@ -4,19 +4,37 @@
       "item": {
         "tag": "forge:ingots/iron"
       },
-      "count": 38
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 16
     },
     {
       "item": {
         "tag": "forge:gems/lapis"
       },
-      "count": 6
+      "count": 16
     },
     {
       "item": {
-        "tag": "minecraft:logs"
+        "item": "minecraft:quartz"
       },
-      "count": 8
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 64
     }
   ],
   "result": {

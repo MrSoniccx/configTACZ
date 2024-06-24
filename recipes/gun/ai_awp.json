@@ -8,21 +8,21 @@
     },
     {
       "item": {
-        "tag": "forge:ingots/gold"
+        "item": "iceandfire:ghost_ingot"
       },
-      "count": 50
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:phantom_membrane"
+      },
+      "count": 16
     },
     {
       "item": {
         "tag": "forge:ingots/iron"
       },
       "count": 200
-    },
-    {
-      "item": {
-        "tag": "forge:rods/blaze"
-      },
-      "count": 5
     }
   ],
   "result": {

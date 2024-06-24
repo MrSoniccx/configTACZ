@@ -11,6 +11,12 @@
         "tag": "forge:rods/blaze"
       },
       "count": 16
+    },
+    {
+      "item": {
+        "item": "biomesoplenty:rose_quartz_block"
+      },
+      "count": 24
     }
   ],
   "result": {

@@ -4,43 +4,13 @@
       "item": {
         "tag": "forge:ingots/iron"
       },
-      "count": 38
+      "count": 158
     },
     {
       "item": {
-        "tag": "forge:gems/lapis"
+        "tag": "forge:rods/blaze"
       },
-      "count": 6
-    },
-    {
-      "item": {
-        "tag": "minecraft:logs"
-      },
-      "count": 8
-    },
-    {
-      "item": {
-        "tag": "forge:gems/lapis"
-      },
-      "count": 6
-    },
-    {
-      "item": {
-        "tag": "minecraft:logs"
-      },
-      "count": 8
-    },
-    {
-      "item": {
-        "tag": "forge:gems/lapis"
-      },
-      "count": 6
-    },
-    {
-      "item": {
-        "tag": "minecraft:logs"
-      },
-      "count": 8
+      "count": 16
     }
   ],
   "result": {

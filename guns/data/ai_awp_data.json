@@ -1,25 +1,18 @@
 {
   "ammo": "tacz:338",
-  "ammo_amount": 5,
-  "extended_mag_ammo_amount": [
-    6,
-    8,
-    10
-  ],
-  "bolt": "manual_action",
+  "ammo_amount": 1,
+  "bolt": "open_bolt",
   "rpm": 171,
   "bullet": {
     "life": 0.9,
     "bullet_amount": 1,
-    "damage": 42,
+    "damage": 17,
     "tracer_count_interval": 0,
     "extra_damage": {
       "armor_ignore": 0.75,
-      "head_shot_multiplier": 2,
+      "head_shot_multiplier": 2.5,
       "damage_adjust": [
-        {"distance": 80, "damage": 42},
-        {"distance": 150, "damage": 35},
-        {"distance": "infinite", "damage": 25}
+        {"distance": "infinite", "damage": 17}
       ]
     },
     "speed": 450,
@@ -71,7 +64,6 @@
     "aim": 0.05
   },
   "allow_attachment_types": [
-    "extended_mag",
     "scope",
     "muzzle"
   ]

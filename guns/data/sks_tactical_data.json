@@ -1,11 +1,11 @@
 //Edited
 {
   "ammo": "tacz:762x39",
-  "ammo_amount": 10,
+  "ammo_amount": 11,
   "extended_mag_ammo_amount": [
-    14,
-    18,
-    22
+    15,
+    19,
+    23
   ],
   "bolt": "closed_bolt",
   "rpm": 350,

@@ -2,15 +2,33 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:ingots/iron"
+        "tag": "forge:storage_blocks/iron"
       },
-      "count": 38
+      "count": 5
     },
     {
       "item": {
-        "tag": "forge:gems/lapis"
+        "tag": "forge:end_stones"
       },
-      "count": 4
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/redstone"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 28
     }
   ],
   "result": {

@@ -1,19 +1,18 @@
 {
-  "ammo": "tacz:9mm",
-  "rpm": 800,
+  "ammo": "tacz:45acp",
+  "rpm": 1100,
   "bullet": {
     "life": 0.6,
     "bullet_amount": 1,
-    "damage": 6,
+    "damage": 3,
     "tracer_count_interval": 0,
     "extra_damage": {
-      "armor_ignore": 0.15,
-      "head_shot_multiplier": 1.25,
+      "armor_ignore": 0.4,
+      "head_shot_multiplier": 1.35,
       "damage_adjust": [
-        {"distance": 0.5, "damage": 7},
-        {"distance": 19.5, "damage": 6},
-        {"distance": 49.5, "damage": 4.5},
-        {"distance": "infinite", "damage": 3.5}
+        {"distance": 14, "damage": 3},
+        {"distance": 37.5, "damage": 2},
+        {"distance": "infinite", "damage": 1.5}
       ]
     },
     "speed": 180,
@@ -25,9 +24,9 @@
   },
   "ammo_amount": 30,
   "extended_mag_ammo_amount": [
-    40,
-    50,
-    60
+    38,
+    45,
+    54
   ],
   "bolt": "closed_bolt",
   "reload": {

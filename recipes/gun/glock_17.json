@@ -4,7 +4,7 @@
       "item": {
         "tag": "forge:ingots/iron"
       },
-      "count": 24
+      "count": 18
     },    
     {
       "item": {
@@ -22,7 +22,7 @@
       "item": {
         "tag": "forge:dusts/redstone"
       },
-      "count": 32
+      "count": 24
     }
   ],
   "result": {

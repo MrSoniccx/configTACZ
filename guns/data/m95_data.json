@@ -1,25 +1,23 @@
 {
   "ammo": "tacz:50bmg",
-  "ammo_amount": 5,
+  "ammo_amount": 3,
   "extended_mag_ammo_amount": [
-    6,
-    8,
-    10
+    5,
+    7,
+    9
   ],
   "bolt": "manual_action",
   "rpm": 151,
   "bullet": {
     "life": 1.1,
     "bullet_amount": 1,
-    "damage": 70,
+    "damage": 24,
     "tracer_count_interval": 0,
     "extra_damage": {
-      "armor_ignore": 1.00,
-      "head_shot_multiplier": 2,
+      "armor_ignore": 0.5,
+      "head_shot_multiplier": 1.5,
       "damage_adjust": [
-        {"distance": 50, "damage": 70},
-        {"distance": 100, "damage": 65},
-        {"distance": "infinite", "damage": 50}
+        {"distance": "infinite", "damage": 24}
       ]
     },
     "speed": 400,

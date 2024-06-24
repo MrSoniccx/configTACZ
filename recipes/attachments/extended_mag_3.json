@@ -8,15 +8,15 @@
     },
     {
       "item": {
-        "tag": "forge:ingots/gold"
+        "tag": "forge:end_stones"
       },
-      "count": 12
+      "count": 64
     },
     {
       "item": {
         "tag": "forge:gems/diamond"
       },
-      "count": 3
+      "count": 6
     }
   ],
   "result": {

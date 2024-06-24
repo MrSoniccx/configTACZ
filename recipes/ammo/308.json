@@ -4,18 +4,25 @@
       "item": {
         "tag": "forge:ingots/copper"
       },
-      "count": 24
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "forge:end_stones"
+      },
+      "count": 16
     },
     {
       "item": {
         "tag": "forge:gems/lapis"
-      }
+      },
+      "count": 9
     },
     {
       "item": {
         "tag": "forge:gunpowder"
       },
-      "count": 9
+      "count": 2
     }
   ],
   "result": {

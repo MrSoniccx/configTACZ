@@ -2,26 +2,33 @@
   "materials": [
     {
       "item": {
+        "tag": "forge:storage_blocks/iron"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:end_stones"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 18
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/redstone"
+      },
+      "count": 4
+    },
+    {
+      "item": {
         "tag": "forge:gems/diamond"
       },
-      "count": 2
-    },
-    {
-      "item": {
-        "tag": "forge:ingots/gold"
-      },
-      "count": 6
-    },
-    {
-      "item": {
-        "tag": "forge:ingots/iron"
-      },
-      "count": 42
-    },
-    {
-      "item": {
-        "tag": "forge:rods/blaze"
-      }
+      "count": 20
     }
   ],
   "result": {

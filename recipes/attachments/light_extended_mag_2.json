@@ -4,13 +4,13 @@
       "item": {
         "tag": "forge:ingots/iron"
       },
-      "count": 12
+      "count": 14
     },
     {
       "item": {
-        "tag": "forge:gems/lapis"
+        "tag": "forge:rods/blaze"
       },
-      "count": 8
+      "count": 1
     }
   ],
   "result": {
